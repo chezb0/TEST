@@ -1,4 +1,4 @@
-# Là, vous voyez deux application application client(clientApp) et application serveur(serverApp)
+# Là, vous voyez deux applications: application client(clientApp) et application serveur(serverApp)
 
 # Pour pouvoir lancer l'application serveur, vous devez installer django et quelques paquets en compléments
 # Une fois tous les paquets installés, changer ALLOWED_HOSTS = ['192.168.10.210'] dans /test_project/settings.py par ALLOWED_HOSTS = ['Adresse ip de votre machine']
