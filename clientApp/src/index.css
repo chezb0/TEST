@@ -1,0 +1,29 @@
+html{
+  height: 100%;
+  width: 100%;
+}
+
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, arial,'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    background: #F1F1F1;
+    margin: 0;
+    }
+
+#root{
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+}

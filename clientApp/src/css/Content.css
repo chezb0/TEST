@@ -1,0 +1,42 @@
+.Content{
+    height: 35px;
+    width: 90%;
+    margin-left: 5%;
+    border-bottom: 1px solid #DDD;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Content span{
+    color: #444444;
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Content div{
+    height: 100%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.Content div button{
+    height: 28px;
+    width: 80px;
+    border-radius: 3px;
+    color: #F2F2F2;
+    border: none;
+    background: rgb(64, 201, 37);
+    cursor: pointer;
+    transition: .3s;
+}
+
+.Content div button:hover{
+    background: rgb(7, 105, 7);
+}

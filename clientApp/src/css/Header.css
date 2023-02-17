@@ -1,0 +1,25 @@
+.Header{
+    height: 35px;
+    width: 90%;
+    margin-left: 5%;
+    border: 2px solid #DDD;
+    border-radius: 7px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Header span{
+    color: #444444;
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Header div{
+    height: 80%;
+    width: 2px;
+    background: #DDD;
+}
